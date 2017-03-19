@@ -4,10 +4,10 @@
 Visualization for New York State Cybersecurity Requirements for Financial Services Companies. Built with [iThoughtsX for OS X](https://www.toketaware.com/ithoughts-osx).
 
 # Purpose
-This project provides a mind map for a cybersecurity requirements document.
+This project provides a mind map for the [New York State Department of Financial Services 23 NYCRR 500 - Cybersecurity Requirements for Financial Services Companies](http://www.dfs.ny.gov/legal/regulations/adoptions/dfsrf500txt.pdf).
 
 # Levels
-This project uses seven levels. The first level is shown here:
+This project uses seven levels. The first level showing each of the document sections is shown here:
 ![Mindmap L1](https://raw.githubusercontent.com/ScaleSec/nysdfs_23_nycrr_500/master/images/NYSDFS_23_NYCRR_500_L1.png "Mindmap L1")
 
 # Usage

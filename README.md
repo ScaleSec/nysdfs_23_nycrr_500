@@ -18,7 +18,7 @@ Or, since the document contains a lot of supporting information like definitions
 ![Mindmap All Actionable](https://raw.githubusercontent.com/ScaleSec/nysdfs_23_nycrr_500/master/images/NYSDFS_23_NYCRR_500_All_Actionable.png "Mindmap All Actionable")
 
 From here, you could manage each task by assigning level of effort, priorities, and tracking progress.
-![Task Panel]('https://raw.githubusercontent.com/ScaleSec/nysdfs_23_nycrr_500/master/images/Task_Panel.png' "Mindmap All")
+![Task Panel](https://raw.githubusercontent.com/ScaleSec/nysdfs_23_nycrr_500/master/images/Task_Panel.png "Mindmap All")
 
 # Full Picture
 ![Mindmap All](https://raw.githubusercontent.com/ScaleSec/nysdfs_23_nycrr_500/master/images/NYSDFS_23_NYCRR_500_All.png "Mindmap All")

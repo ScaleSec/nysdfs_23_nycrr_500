@@ -1,7 +1,7 @@
 ![Mindmap Screenshot](https://raw.githubusercontent.com/ScaleSec/nysdfs_23_nycrr_500/master/images/Top_Banner.png "Mindmap Screenshot")
 
 # Mind map visualization for NYDFS 23 NYCRR 500
-Visualization for New York State Cybersecurity Requirements for Financial Services Companies. Built with [iThoughtsX for OS X](https://www.toketaware.com/ithoughts-osx).
+Visualization for New York State Cybersecurity Requirements for Financial Services Companies.
 
 # Purpose
 This project provides a mind map for the [New York State Department of Financial Services 23 NYCRR 500 - Cybersecurity Requirements for Financial Services Companies](http://www.dfs.ny.gov/legal/regulations/adoptions/dfsrf500txt.pdf).
@@ -22,3 +22,8 @@ From here, you could manage each task by assigning level of effort, priorities, 
 
 # Full Picture
 ![Mindmap All](https://raw.githubusercontent.com/ScaleSec/nysdfs_23_nycrr_500/master/images/NYSDFS_23_NYCRR_500_All.png "Mindmap All")
+
+# Exports
+This mind map was built with [iThoughtsX for OS X](https://www.toketaware.com/ithoughts-osx). Here are exports in other formats:
+- [FreeMind](https://raw.githubusercontent.com/ScaleSec/nysdfs_23_nycrr_500/master/exports/NYSDFS_23_NYCRR_500.mm)
+- [Markdown](https://raw.githubusercontent.com/ScaleSec/nysdfs_23_nycrr_500/master/exports/NYSDFS_23_NYCRR_500.markdown)

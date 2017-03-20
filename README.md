@@ -25,5 +25,5 @@ From here, you could manage each task by assigning level of effort, priorities, 
 
 # Exports
 This mind map was built with [iThoughtsX for OS X](https://www.toketaware.com/ithoughts-osx). Here are exports in other formats:
-- [FreeMind](https://raw.githubusercontent.com/ScaleSec/nysdfs_23_nycrr_500/master/exports/NYSDFS_23_NYCRR_500.mm)
-- [Markdown](https://raw.githubusercontent.com/ScaleSec/nysdfs_23_nycrr_500/master/exports/NYSDFS_23_NYCRR_500.markdown)
+- [FreeMind](https://github.com/ScaleSec/nysdfs_23_nycrr_500/blob/master/exports/NYSDFS_23_NYCRR_500.mm)
+- [Markdown](https://github.com/ScaleSec/nysdfs_23_nycrr_500/blob/master/exports/NYSDFS_23_NYCRR_500.markdown)
